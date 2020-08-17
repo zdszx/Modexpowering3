@@ -1,4 +1,4 @@
-# Modexpowering3
+# ModExpowering3
 a 2048 bit RSA verilog project basing on Montgomery , Karatsuba multiplier
 @ fate studio @ Brent Kung @Karatsuba
 
