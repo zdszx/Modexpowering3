@@ -1,0 +1,17 @@
+montgomery Multiply using FIOS
+
+make
+./montgomery
+
+Compare the result to gen_mm_param.py's result.
+
+
+gen_mm_param.py
+    generate the montgomery's parameters
+    usage: python gen_mm_param.py R_bits n0_bits [seed]
+    example: python gen_mm_param.py 192 32
+
+extGCD.py
+    the compute the num's inverse
+    example: python extGCD 13 11
+
