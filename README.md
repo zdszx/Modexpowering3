@@ -4,7 +4,7 @@ a 2048 bit RSA verilog project basing on Montgomery , Karatsuba multiplier
 what we actually used are:@ fate studio @ Brent Kung Adder @Karatsuba multiplier
 
 ## **1. Summary**:
-![image](https://github.com/zdszx/Modexpowering3/blob/master/1.png)
+<img src="https://github.com/zdszx/Modexpowering3/blob/master/1.png" width="600" height="200" /><br/>
 
 ## **2. Architecture of the project:**
 ![image](https://github.com/zdszx/Modexpowering3/blob/master/2.png)
